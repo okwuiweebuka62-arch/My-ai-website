@@ -1,0 +1,6 @@
+{
+  "name": "Nexora AI",
+  "description": "Next-Gen AI for a Smarter Tomorrow - Hero section with interactive metrics, video demo, and partner showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
